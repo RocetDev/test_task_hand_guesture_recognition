@@ -1,0 +1,1 @@
+# test_task_hand_guesture_recognition
