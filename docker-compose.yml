@@ -1,0 +1,8 @@
+
+services:
+  hand-reg-app:
+    build: .
+    image: yolo_hand_reg_app
+    container_name: hand_reg_app
+
+
